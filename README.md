@@ -36,6 +36,7 @@ Podem aparecer alguns avisos na instalação, mas é seguro ignorá-los se o seu
 
     ```pip install pipenv```
 2. Instalar as dependências do `Django`
+    ```pipenv install django ```
 
     ```pipenv install djangorestframework```
     
