@@ -5,7 +5,11 @@ Uma estante virtual de livros que permite cadastrar livros usando uma integraç�
 Inspirado no tutorial do [Bek Brace](https://youtu.be/n2T9rmFmo48) e no curso do [freeCodeCamp.org](https://youtu.be/4UZrsTqkcW4). 
 
 ## Instruções
-Abrir o terminal
+Abra o terminal e crie uma pasta para o projeto, usando a seguinte linha de comando:\
+```mkdir estanteDeLivros```\
+Em seguida, entre na pasta com:\
+```cd estanteDeLivros```\
+Os passos seguintes devem ser realizados dentro da mesma.
 ### Instalando `node` e `npm`
 1. Verificar se você já os possui instalados
 
