@@ -34,7 +34,8 @@ Podem aparecer alguns avisos na instalação, mas é seguro ignorá-los se o seu
 ### Instalando `Django`
 1. Criar um ambiente virtual com `pipenv`
 
-    ```pip install pipenv```
+    ```pip install pipenv```\
+    ``` pipenv shell```
 2. Instalar as dependências do `Django`
     ```pipenv install django ```
 
